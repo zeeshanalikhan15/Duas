@@ -1,0 +1,87 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Scheherazade+New&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Nastaliq+Urdu&display=swap');
+
+/* Body */
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f4f4;
+  padding: 20px;
+  margin: 0;
+}
+
+/* Dua Card */
+.dua-card {
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  padding: 20px;
+  margin-bottom: 20px;
+  position: relative;
+}
+
+/* Heading */
+.dua-card h2 {
+  margin-top: 0;
+  font-size: 1.2em;
+  color: #333;
+}
+
+/* Sections */
+.section {
+  margin: 10px 0;
+}
+
+/* Arabic Text */
+.arabic {
+  font-family: 'Scheherazade New', serif;
+  font-size: 1.5em;
+  color: #222;
+  direction: rtl;
+  text-align: right;
+  margin-bottom: 8px;
+}
+
+/* Urdu Text */
+.urdu {
+  font-family: 'Noto Nastaliq Urdu', serif;
+  font-size: 1.2em;
+  color: #555;
+  margin-bottom: 8px;
+}
+
+/* English Text */
+.english {
+  font-size: 1em;
+  color: #666;
+  margin-bottom: 8px;
+}
+
+/* Reference Link */
+.reference {
+  font-size: 0.9em;
+  color: #0077cc;
+  text-decoration: none;
+}
+
+.reference:hover {
+  text-decoration: underline;
+}
+
+/* Copy Button */
+.copy-button {
+  background: #0077cc;
+  color: #fff;
+  border: none;
+  padding: 6px 12px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 0.9em;
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
+
+.copy-button:hover {
+  background: #005fa3;
+}
