@@ -110,5 +110,13 @@ const duas = [
     english: "O Allah, my Lord! Make things easy and do not make them difficult, and complete them with goodness.",
     reference: "https://sunnah.com/ibnhibban:2427",
     source: "Hadith: Ibn Hibban 2427"
+  },
+  {
+    id: 15,
+    arabic: "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
+    urdu: "اے ہمارے رب! ہمیں دنیا میں بھی بھلائی عطا فرما اور آخرت میں بھی بھلائی عطا فرما اور ہمیں آگ کے عذاب سے بچا۔",
+    english: "Our Lord! Grant us good in this world and good in the Hereafter, and save us from the punishment of the Fire.",
+    reference: "https://quran.com/2/201",
+    source: "Qur'an, Surah Al-Baqarah (2:201)"
   }
 ];
