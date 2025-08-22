@@ -118,5 +118,13 @@ const duas = [
     english: "Our Lord! Grant us good in this world and good in the Hereafter, and save us from the punishment of the Fire.",
     reference: "https://quran.com/2/201",
     source: "Qur'an, Surah Al-Baqarah (2:201)"
+  },
+  {
+    id: 17,
+    arabic: "رَبِّ اجْعَلْنِي مُقِيمَ الصَّلَاةِ وَمِنْ ذُرِّيَّتِي رَبَّنَا وَتَقَبَّلْ دُعَاءِ ﴿٤٠﴾ رَبَّنَا اغْفِرْ لِي وَلِوَالِدَيَّ وَلِلْمُؤْمِنِينَ يَوْمَ يَقُومُ الْحِسَابُ ﴿٤١﴾",
+    urdu: "اے میرے رب! مجھے نماز قائم کرنے والا بنا اور میری اولاد میں سے بھی۔ اے ہمارے رب! اور میری دعا قبول فرما۔ اے ہمارے رب! مجھے اور میرے والدین کو اور سب مؤمنوں کو بخش دے جس دن حساب قائم ہوگا۔",
+    english: "My Lord! Make me an establisher of prayer, and from my descendants. Our Lord! Accept my supplication. Our Lord! Forgive me, my parents, and the believers on the Day the account is established.",
+    reference: "https://quran.com/14/40-41",
+    source: "Qur'an, Surah Ibrahim (14:40-41)"
   }
 ];
