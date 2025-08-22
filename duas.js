@@ -97,7 +97,7 @@ const duas = [
   },
   {
     id: 13,
-    arabic: "رَبِّ اشْرَ‌حْ لِي صَدْرِي * وَيَسِّرْ‌ لِي أَمْرِي * وَاحْلُلْ عُقْدَةً مِّن لِّسَانِي * يَفْقَهُوا قَوْلِي",
+    arabic: "رَبِّ اشْرَ‌حْ لِي صَدْرِي وَيَسِّرْ‌ لِي أَمْرِي وَاحْلُلْ عُقْدَةً مِّن لِّسَانِي يَفْقَهُوا قَوْلِي",
     urdu: "اے میرے رب! میرا سینہ کھول دے، میرا کام آسان فرما، میری زبان کی گرہ کھول دے تاکہ لوگ میری بات سمجھ سکیں۔",
     english: "My Lord! Expand for me my chest, ease my task, and untie the knot from my tongue, that they may understand my speech.",
     reference: "https://quran.com/20/25-28",
